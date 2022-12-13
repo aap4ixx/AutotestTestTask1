@@ -19,7 +19,7 @@ namespace Dynatech.Test.Tests {
         readonly DateTime searchDate = new DateTime(2023, 01, 07);
 
         [Fact]
-        [Documentation("Check all flight contains price and departure date")]
+        [Documentation("Check all flight contains price and departure date ")]
         public void Search_CheckPrice_CheckDepartureDate() {
             Logger.Information("Navigate to result page");
             var resultPageUrl = $"https://www.oojo.com/result/NYC-LHE/{searchDate:yyyy-MM-dd}/business";
