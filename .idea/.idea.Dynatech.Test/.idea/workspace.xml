@@ -4,7 +4,13 @@
     <projectFile>Dynatech.Test/Dynatech.Test.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19a4f2a3-8286-4696-9d06-d1c8db94ba70" name="Changes" comment="" />
+    <list default="true" id="19a4f2a3-8286-4696-9d06-d1c8db94ba70" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Dynatech.Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Dynatech.Test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynatech.Test/bin/Debug/net6.0/Dynatech.Test.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Dynatech.Test/bin/Debug/net6.0/Dynatech.Test.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynatech.Test/bin/Debug/net6.0/Dynatech.Test.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Dynatech.Test/bin/Debug/net6.0/Dynatech.Test.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynatech.Test/obj/Debug/net6.0/Dynatech.Test.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Dynatech.Test/obj/Debug/net6.0/Dynatech.Test.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynatech.Test/obj/Debug/net6.0/Dynatech.Test.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Dynatech.Test/obj/Debug/net6.0/Dynatech.Test.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +20,7 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/38284ca4f4afe378f96fccac3e179f4bceda7a74eb151623b66d2dc3634d9b/ExceptionAggregator.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/ee38174fc3ee51642de584534277748c6f479e4e87ccc9cd28a551e5c3e7c82/XunitTestCollectionRunner.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/f5545b2656401abe1a371ad2756d7d2328a38293f7ee8b163801bbf55cee8/TestInvoker.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/DOM/Source/Dynatech.Test/Dynatech.Test/Tests/Test1.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -29,7 +36,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -76,14 +83,49 @@
       <workItem from="1670931851905" duration="1068000" />
       <workItem from="1670932943379" duration="223000" />
       <workItem from="1670933345265" duration="89000" />
+      <workItem from="1670933476055" duration="417000" />
+      <workItem from="1670933976099" duration="271000" />
+      <workItem from="1670934259100" duration="136000" />
+      <workItem from="1670934611429" duration="70000" />
+      <workItem from="1670934694997" duration="6000" />
+      <workItem from="1670934712682" duration="531000" />
     </task>
+    <task id="LOCAL-00001" summary="Test Commit">
+      <created>1670934791773</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670934791773</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add git ignore file">
+      <created>1670935210344</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670935210344</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Test Commit" />
+    <MESSAGE value="Add git ignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add git ignore file" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
