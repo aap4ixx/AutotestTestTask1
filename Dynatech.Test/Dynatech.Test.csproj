@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="DotNetSeleniumExtras.WaitHelpers" Version="3.11.0" />
+      <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.1.0" />
+      <PackageReference Include="Selenium.WebDriver.Extensions" Version="4.1.0" />
+      <PackageReference Include="Selenium.WebDriver.WaitExtensions" Version="2.0.0" />
+      <PackageReference Include="Serilog.Sinks.XUnit" Version="3.0.3" />
+      <PackageReference Include="xunit" Version="2.4.2" />
+      <PackageReference Include="xunit.categories" Version="2.0.6" />
+      <PackageReference Include="xunit.extensibility.core" Version="2.4.2" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Dynatech.Test.Common\Dynatech.Test.Common.csproj" />
+    </ItemGroup>
+
+</Project>
